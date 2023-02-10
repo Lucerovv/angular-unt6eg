@@ -1,0 +1,18 @@
+ion-label {
+  max-width: 100% !important;
+  max-height: 100% !important;
+  text-overflow: clip !important;
+  white-space: initial !important;
+}
+ion-item {
+  max-width: 100% !important;
+  max-height: 100% !important;
+  text-overflow: clip;
+  white-space: initial;
+}
+ion-list {
+  max-width: 100% !important;
+  max-height: 100% !important;
+  text-overflow: clip;
+  white-space: initial;
+}
